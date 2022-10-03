@@ -1,0 +1,9 @@
+name: q1zZ-CommandBlocker
+main: me.q1zz.commandblocker.CommandBlockerPlugin
+version: 0.1
+author: q1zZ
+website: https://github.com/q1zZu
+load: STARTUP
+commands:
+  q1zz-reload:
+    aliases: [q1zzReload, cmdblocker-reload]
