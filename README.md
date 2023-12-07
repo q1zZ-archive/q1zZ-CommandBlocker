@@ -1,3 +1,7 @@
+</br>
+
+> ⚠️ This plugin is no longer supported and may have errors!
+
 # q1zZ-CommandBlocker
 Simple minecraft plugin for block server commands.
 # Permissions
